@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
 
 
+        // add more comments
+
         dinosaur t_rex = new dinosaur();
         dinosaur velociraptor = new dinosaur();
         dinosaur scary = new dinosaur();
